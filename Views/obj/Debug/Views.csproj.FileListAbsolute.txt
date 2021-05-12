@@ -78,3 +78,4 @@ E:\PROJECT\Tutoré\portfoliov0.1\PortfolioProject\Views\bin\Debug\Bunifu.UI.WinF
 E:\PROJECT\Tutoré\portfoliov0.1\PortfolioProject\Views\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
 E:\PROJECT\Tutoré\portfoliov0.1\PortfolioProject\Views\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
 E:\PROJECT\Tutoré\portfoliov0.1\PortfolioProject\Views\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\PROJECT\Tutoré\portfoliov0.1\PortfolioProject\Views\obj\Debug\Views.LoginForm.Login.resources
