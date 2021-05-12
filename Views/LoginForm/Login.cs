@@ -21,5 +21,10 @@ namespace Views.LoginForm
         {
            
         }
+
+        private void BtnLogin_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
